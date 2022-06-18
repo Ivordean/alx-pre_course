@@ -1,0 +1,14 @@
+main.js
+index.js
+cd ..
+cd bash
+ cat>alx
+#!/bin/bash
+echo "ALX"
+cat>school
+#!/bin/bash
+echo "School"
+git add .
+git commit -m "Starting to code today,so cool "
+git push origin master
+git push
